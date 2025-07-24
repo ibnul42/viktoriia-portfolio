@@ -17,7 +17,7 @@ const About = () => {
           <div className="main_title">Education</div>
           <div className="graduation_title">Bachelor of Technology: CS</div>
           <div className="graduation_from">
-            Jawaharlal Nehru Technological University (JNTU)
+            Taras Shevchenko National University of Kyiv
           </div>
         </div>
       </div>
